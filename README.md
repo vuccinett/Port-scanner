@@ -2,9 +2,11 @@
 port scanner that is able to find open ports
 
 Usage:
-first, input the ip
-then input first ip range
-then the second one
+
+
+- first, input the ip
+- then input first ip range
+- then the second one
 
 EXAMPLE:
 
