@@ -1,5 +1,5 @@
 # Port-scanner
-port scanner that is able to find open ports
+port scanner that is able to find open ports on minecraft servers
 
 Usage:
 
